@@ -15,6 +15,7 @@ Install kali linux either in partition or virtual box or in live mode
 
 ### Step 2:
 
+
 Investigate on the various categories of tools as follows:
 
 ### Step 3:

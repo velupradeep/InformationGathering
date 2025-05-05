@@ -72,4 +72,4 @@ Host: example.com
 
 
 ## RESULT:
-The information gathering techniques tools/procedure were  identified successfully
+The information gathering techniques tools/procedure were  identified successfully.
